@@ -1,0 +1,29 @@
+:root {
+  --fc-border-color: rgba(40, 40, 40, 0.1);
+  --fc-daygrid-event-dot-width: 7px;
+  --fc-neutral-text-color: rgb(120 113 108);
+
+  --fc-button-text-color: rgb(68 64 60);
+  --fc-button-bg-color: rgb(190 242 100);
+  --fc-button-border-color: white;
+  --fc-button-hover-bg-color: rgb(217 249 157);
+  --fc-button-hover-border-color: white;
+  --fc-button-active-bg-color: rgb(52 211 153);
+  --fc-button-active-border-color: rgb(68 64 60);
+  --fc-button-border-radius: 1rem;
+}
+.fc-daygrid-day-number {
+  font-size: x-small;
+}
+.fc-event-time {
+  font-size: x-small;
+}
+.fc-event-title {
+  font-size: xx-small;
+}
+.fc-button-group {
+  font-size: small;
+}
+.fc-col-header-cell-cushion {
+  font-size: small;
+}
